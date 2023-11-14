@@ -10,8 +10,6 @@ Join telegram : https://t.me/spytvmoviesofficial
 
 ## API
 
-The dataset contains direct streaming links to latest movies & Series.  The first day of the dataset is 13 November 2023.
-
 You can fetch the data using HTTP.
 
 ### Movies and Series
