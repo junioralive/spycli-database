@@ -4,6 +4,8 @@ A dataset for latest MOVIES, SERIES. UPDATED REGULARLY !!
 
 Last Updated: `15 November 2023 00:05:49 UTC`
 
+FOR NON CODER: [DOWNLOAD EXE](https://github.com/junioralive/spymovies/releases/tag/1.0)
+
 ## ⚠️  The intension of the project is not piracy, i'm just scraping from a website openly available on the internet
 
 ## API
