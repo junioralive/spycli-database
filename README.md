@@ -48,7 +48,7 @@ This file contains JSON object:
 You can fetch the data contained in this file by sending a `GET` request to:
 
 ```
-https://raw.githubusercontent.com/junioralive/SPYMOVIES/main/movie_data.json
+https://raw.githubusercontent.com/junioralive/spymovies/main/src/spymovies_data.json
 ```
 For example:
 
