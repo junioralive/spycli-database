@@ -1,10 +1,8 @@
 # SPY MOVIES
 
-## LAST UPDATED ON : `14 November 2023`
+A dataset for latest MOVIES, SERIES. UPDATED REGULARLY !!
 
-For any issue or queries discord at @junioralive
-
-Join telegram : https://t.me/spytvmoviesofficial
+Last Updated: `15 November 2023 00:05:49 UTC`
 
 ## ⚠️  The intension of the project is not piracy, i'm just scraping from a website openly available on the internet
 
@@ -62,15 +60,20 @@ resp = requests.get(url=url)
 data = resp.json() 
 ```
 
-
 ## Disclaimer
 
-The Spy Movies Repository emphasize that this project is for educational and entertainment purposes only. They state a clear stance against piracy and express their respect for the intellectual property rights of filmmakers and production companies. The project is positioned as a way to bypass third-party money-making schemes rather than to engage in any form of illegal activity.
+The Spy Movies Repository emphasize that this project is for educational and entertainment purposes only. They state a clear stance against piracy and express their respect for the intellectual property rights of filmmakers and production companies. The project is positioned as a way to bypass third-party money-making schemes rather than to engage in any form of illegal activity. For any issue or queries discord at @junioralive or email thejuniortest@gmail.com.
 
 ## Usage
 
 It's a commendable effort to make spy movies more accessible while respecting legal boundaries. However, users and contributors should remain vigilant about the legal and ethical implications of such projects, ensuring they stay within the bounds of copyright laws and fair use policies.
 
+## Join Now
+
+Telegram : https://t.me/spytvmoviesofficial
+
 ## License
 
 Licensed under [MIT](./LICENSE). Do what you will.
+
+
