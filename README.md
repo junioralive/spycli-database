@@ -55,7 +55,7 @@ For example:
 ```python
 import requests
 
-url = 'https://raw.githubusercontent.com/junioralive/SPYMOVIES/main/movie_data.json'
+url = 'https://raw.githubusercontent.com/junioralive/spymovies/main/src/spymovies_data.json'
 resp = requests.get(url=url)
 data = resp.json() 
 ```
