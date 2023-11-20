@@ -69,11 +69,8 @@ resp = requests.get(url=url)
 data = resp.json() 
 ```
 
-<<<<<<< HEAD
-To understand data structure, read [documentation](./DOC.md).
-=======
 To understand data structure, read [documentation](./DOC.md)
->>>>>>> 17b9c4d60e59f0e1ef0a112ce857386565bc3c19
+
 
 ## Disclaimer
 
