@@ -2,9 +2,9 @@
 
 A dataset for latest MOVIES, SERIES. UPDATED REGULARLY !!
 
-Last Updated: `19 November 2023 16:41:56 UTC`
+Last Updated: `20 November 2023 09:37:25 UTC`
 
-Data Update: `1448 - 1 NEWLY ADDED`
+Data Update: `1470 - 6 NEWLY ADDED`
 
 FOR NON-CODER: [DOWNLOAD](https://github.com/junioralive/spymovies/releases/tag/1.0)
 
