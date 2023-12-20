@@ -7,7 +7,7 @@ Last Updated: `20 December 2023 10:35:30 UTC`
 Data Update: `1604 - 10 NEWLY ADDED`
 
 
-## ⚠️ It is Only For Educational Purposes. 
+## ⚠️ IT IS ONLY FOR EDUCATIONAL PURPOSES.
 
 Neither I Say Nor I Promote To Do Anything Illegal. I am scraping data from various open-source websites that are publicly accessible on the internet.
 
