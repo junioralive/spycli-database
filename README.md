@@ -6,8 +6,7 @@ Last Updated: `20 December 2023 10:35:30 UTC`
 
 Data Update: `1604 - 10 NEWLY ADDED`
 
-
-## ⚠️ It is Only For Educational Purposes. 
+FOR NON-CODER: [DOWNLOAD](https://github.com/junioralive/spymovies/releases/tag/1.0)
 
 Neither I Say Nor I Promote To Do Anything Illegal. I am scraping data from various open-source websites that are publicly accessible on the internet.
 
@@ -87,4 +86,4 @@ Licensed under [MIT](./LICENSE). Do what you will.
 
 ## NOTES
 
-Please Give Credits, Stars And Follow If You use [SPY-CLI](https://github.com/junioralive/spycli).
+Please Give Credits, Stars, And Follow If You use SPYMOVIES.
