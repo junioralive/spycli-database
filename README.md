@@ -1,20 +1,21 @@
-# SPY MOVIES
+# SPYCLI-DATABASE
 
-A dataset for latest MOVIES, SERIES. UPDATED REGULARLY !!
+A dataset for latest MOVIES, SERIES. UPDATED REGULARLY! (MADE FOR [SPY-CLI](https://github.com/junioralive/spycli))
 
 Last Updated: `20 December 2023 10:35:30 UTC`
 
 Data Update: `1604 - 10 NEWLY ADDED`
 
-FOR NON-CODER: [DOWNLOAD](https://github.com/junioralive/spymovies/releases/tag/1.0)
 
-## ⚠️ It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal. I'm just scraping from all open sources (websites) openly available on the internet.
+## ⚠️ It is Only For Educational Purposes. 
+
+Neither I Say Nor I Promote To Do Anything Illegal. I am scraping data from various open-source websites that are publicly accessible on the internet.
 
 ## API
 
 You can fetch the data using HTTP.
 
-### Movies and Series
+### USAGE
 
 This file contains JSON object:
 
@@ -74,11 +75,11 @@ To understand data structure, read [documentation](./DOC.md)
 
 ## Disclaimer
 
-The Spy Movies Repository emphasize that this project is for educational and entertainment purposes only. They state a clear stance against piracy and express their respect for the intellectual property rights of filmmakers and production companies. The project is positioned as a way to bypass third-party money-making schemes rather than to engage in any form of illegal activity. For any issue or queries email at thejuniortest@gmail.com.
+The Spy Movies Repository emphasize that this project is for educational and entertainment purposes only. We state a clear stance against piracy and express their respect for the intellectual property rights of filmmakers and production companies. The project is positioned as a way to bypass third-party money-making schemes rather than to engage in any form of illegal activity. For any issue or queries email at thejuniortest@gmail.com.
 
 ## Join Now
 
-Telegram : https://t.me/spytvmoviesofficial
+Discord : https://discord.gg/zuAR4txdqT
 
 ## License
 
@@ -86,4 +87,4 @@ Licensed under [MIT](./LICENSE). Do what you will.
 
 ## NOTES
 
-Please Give Credits, Stars, And Follow If You use SPYMOVIES.
+Please Give Credits, Stars And Follow If You use [SPY-CLI](https://github.com/junioralive/spycli).
