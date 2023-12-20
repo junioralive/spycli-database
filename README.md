@@ -6,8 +6,6 @@ Last Updated: `20 December 2023 10:35:30 UTC`
 
 Data Update: `1604 - 10 NEWLY ADDED`
 
-FOR NON-CODER: [DOWNLOAD](https://github.com/junioralive/spymovies/releases/tag/1.0)
-
 ## ⚠️ IT IS ONLY FOR EDUCATIONAL PURPOSES.
 
 Neither I Say Nor I Promote To Do Anything Illegal. I am scraping data from various open-source websites that are publicly accessible on the internet.
