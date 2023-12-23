@@ -57,14 +57,14 @@ Example:
 You can fetch the data contained in this file by sending a `GET` request to:
 
 ```
-https://raw.githubusercontent.com/junioralive/spymovies/main/src/spymovies_data_v2.json
+https://raw.githubusercontent.com/junioralive/spycli-database/main/src/spycli-database_data_v2.json
 ```
 For example:
 
 ```python
 import requests
 
-url = 'https://raw.githubusercontent.com/junioralive/spymovies/main/src/spymovies_data.json'
+url = 'https://raw.githubusercontent.com/junioralive/spycli-database/main/src/spycli-database_data.json'
 resp = requests.get(url=url)
 data = resp.json() 
 ```
@@ -74,7 +74,7 @@ To understand data structure, read [documentation](./DOC.md)
 
 ## Disclaimer
 
-The Spy Movies Repository emphasize that this project is for educational and entertainment purposes only. We state a clear stance against piracy and express their respect for the intellectual property rights of filmmakers and production companies. The project is positioned as a way to bypass third-party money-making schemes rather than to engage in any form of illegal activity. For any issue or queries email at thejuniortest@gmail.com.
+The SPY-CLI Database Repository emphasize that this project is for educational and entertainment purposes only. We state a clear stance against piracy and express their respect for the intellectual property rights of filmmakers and production companies. The project is positioned as a way to bypass third-party money-making schemes rather than to engage in any form of illegal activity. For any issue or queries email at thejuniortest@gmail.com.
 
 ## Join Now
 
@@ -86,4 +86,4 @@ Licensed under [MIT](./LICENSE). Do what you will.
 
 ## NOTES
 
-Please Give Credits, Stars, And Follow If You use SPYMOVIES.
+Please Give Credits, Stars, And Follow If You use SPY-CLI Database.
