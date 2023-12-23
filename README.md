@@ -57,7 +57,7 @@ Example:
 You can fetch the data contained in this file by sending a `GET` request to:
 
 ```
-https://raw.githubusercontent.com/junioralive/spycli-database/main/src/spycli-database_data_v2.json
+https://raw.githubusercontent.com/junioralive/spycli-database/main/src/spycli-database_data.json
 ```
 For example:
 
