@@ -36,7 +36,7 @@ The dataset is structured in JSON format, This file contains JSON object: `name`
 Users can fetch the data using HTTP requests to the provided URL.
 
 ```
-https://raw.githubusercontent.com/junioralive/spymovies/main/src/spymovies_data.json
+https://raw.githubusercontent.com/junioralive/spycli-database/main/src/spycli-database_data.json
 ```
 ## **Examples:**
 
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/junioralive/spymovies/main/src/spymovies_data.
 ```python
 import requests
 
-url = 'https://raw.githubusercontent.com/junioralive/spymovies/main/src/spymovies_data.json'
+url = 'https://raw.githubusercontent.com/junioralive/spycli-database/main/src/spycli-database_data.json'
 resp = requests.get(url=url)
 spymovies_data = resp.json() 
 ```
