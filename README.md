@@ -1,10 +1,10 @@
 # SPYCLI-DATABASE
 
-A dataset for latest MOVIES, SERIES. UPDATED REGULARLY! (MADE FOR [SPY-CLI](https://github.com/junioralive/spycli))
+A dataset for latest MOVIES, SERIES. UPDATED REGULARLY! (MADE FOR [SPY-CLI](https://github.com/junioralive/spy-cli))
 
-Last Updated: `25 December 2023 04:17:57 UTC`
+Last Updated: `29 December 2023 05:45:30 UTC`
 
-Data Update: `1642 - 51 NEWLY ADDED`
+Data Update: `1650 - 8 NEWLY ADDED`
 
 ## ⚠️ IT IS ONLY FOR EDUCATIONAL PURPOSES.
 
