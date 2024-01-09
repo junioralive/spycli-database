@@ -4,7 +4,7 @@ A dataset for latest MOVIES, SERIES. UPDATED REGULARLY! (MADE FOR [SPY-CLI](http
 
 Last Updated: `09 January 2024 18:19:16 UTC`
 
-Data Update: `1735 - 16 NEWLY ADDED`
+Data Update: `1735 - 80+ NEWLY ADDED`
 
 ## ⚠️ IT IS ONLY FOR EDUCATIONAL PURPOSES.
 
