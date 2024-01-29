@@ -2,9 +2,9 @@
 
 A dataset for latest MOVIES, SERIES. UPDATED REGULARLY! (MADE FOR [SPY-CLI](https://github.com/junioralive/spy-cli))
 
-Last Updated: `28 January 2024 16:56:13 UTC`
+Last Updated: `29 January 2024 16:03:20 UTC`
 
-Data Update: `1882 - 21 NEWLY ADDED`
+Data Update: `1884 - 12 NEWLY ADDED`
 
 ## ⚠️ IT IS ONLY FOR EDUCATIONAL PURPOSES.
 
