@@ -1,4 +1,8 @@
-# SPYCLI-DATABASE
+# ⚠️ This project was discontinued and was moved to a real-time database (live fetch routes). Check out [SPY-CLI-API](https://github.com/junioralive/spycli-api).
+
+---
+
+## SPYCLI-DATABASE
 
 A dataset for latest MOVIES, SERIES. UPDATED REGULARLY! (MADE FOR [SPY-CLI](https://github.com/junioralive/spy-cli))
 
